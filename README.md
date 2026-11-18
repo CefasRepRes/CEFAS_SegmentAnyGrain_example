@@ -20,6 +20,7 @@ Created By Hayden Close (Cefas)
 hayden.close@cefas.gov.uk
 
 The purpose of this repository is to provide an easy to use colab workbook to enable the segmentation of sediment grains from seabed imagery. See below for example imagery. 
+The workflow is ran entirely from USER_INTERFACE_Segment_every_grain_Cefas_Workflow.ipynb with functions brough automatically from CefasCobblesTools.ipynb with example images too selected using widgets.
 <img width="5184" height="3456" alt="WWBF_CEND0121_WWBF013_STN_180_A1_006" src="https://github.com/user-attachments/assets/1f194fdb-973b-4752-98bb-bd8d5b43bd68" />
 
 
